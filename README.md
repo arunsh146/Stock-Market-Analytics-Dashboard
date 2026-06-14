@@ -1,5 +1,12 @@
 # Stock Market Analytics Dashboard
 
+## Project Highlights
+- Analyzed 497,000+ stock trading records
+- Created 4 KPI cards
+- Developed 5 interactive visualizations
+- Implemented date and stock-level filtering
+- Generated actionable market insights
+
 ## Objective
 To analyze stock market performance using Power BI and create an interactive dashboard with KPIs, filters, and visualizations.
 
